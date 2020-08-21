@@ -1,0 +1,15 @@
+@import "colors";
+
+.btn_primary {
+    border-radius: 100rem;
+    padding: 0.5rem 1rem;
+    border: solid 3px transparent;
+    background-color: $primary;
+
+    &:hover {
+        box-shadow: none;
+        background-color: $secondary;
+        color: white;
+        
+    }
+}

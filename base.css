@@ -1,0 +1,14 @@
+.btn_primary {
+  border-radius: 100rem;
+  padding: 0.5rem 1rem;
+  border: solid 3px transparent;
+  background-color: #e4187c;
+}
+
+.btn_primary:hover {
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  background-color: #9d298a;
+  color: white;
+}
+/*# sourceMappingURL=base.css.map */
